@@ -32,6 +32,14 @@ Connected AWS RDS to get transformed data and integrated with postgres
 Loads to a database (Postgres) 
 Used PowerBI to create interactive dashboards to visualize data.
 
+## ![image](https://github.com/user-attachments/assets/319f628e-de8c-4dde-b9e4-fa308715631e) Postgres
+
+![image](https://github.com/user-attachments/assets/b212688d-1c45-4810-9a85-fc50c580296a)<br>
+![image](https://github.com/user-attachments/assets/8c762576-93b5-414e-a856-dcd625a1f262)
+
+
+
+
 ## Dashboards
 
 ![image](https://github.com/user-attachments/assets/f1cae4aa-39de-4c01-95da-b4496998c02a)<br>
@@ -39,6 +47,16 @@ Used PowerBI to create interactive dashboards to visualize data.
 ![image](https://github.com/user-attachments/assets/0add92e2-d3ce-402b-9399-8f7a30446e0f)<br>
 
 ![image](https://github.com/user-attachments/assets/4f30acfb-b049-4f52-87e6-69084e53d296)
+
+## Future Improvements
+
+Add scheduling using Apache Airflow
+
+Deploy using Docker
+ 
+Add Streamlit dashboard
+
+Built with ❤️ by <href>Muhammad Umair
 
 
 
